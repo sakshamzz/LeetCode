@@ -1,0 +1,61 @@
+["A","B","C"]
+
+'my name is saksham'.split().Tolist()
+
+'ym eman si '
+
+
+arr = str.split()
+
+arr ["my", "name", "is" ...]
+
+for item in arr:
+  2nd ["m","y"] 
+  reveVariable[]
+  check length
+  i =2 , i <= 0, i--{
+      reveVariable.insert(tempArr[i])
+  } 
+  "my"
+  loop over length in reverse order : 
+      
+  arr[item] = reversedString
+
+join.arr(" ")
+
+
+string[] arr = new arr[10];
+
+arr.add(valule,0)
+
+[""]
+
+
+Add(x,y)
+
+
+class B : class A
+Add(a,b)
+
+
+
+Select Max(Salary) from abc import ABC
+from Employees Where Salary not in
+(
+    Select Max(Salary) from Employees Where Salary not in
+    (
+       Select Max(Salary) from Employees Where Salary 
+    )
+) 
+
+
+Select TOP(3) * from Employees order by salary desc
+
+
+1 ABC  20000
+2 XYZ  30000
+3 MNY  40000
+4 Rahul 40000
+
+
+
